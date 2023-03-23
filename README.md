@@ -2,14 +2,14 @@
 
 # Yelp-Camp
 A full stack web development Node.js project.
-<img src="demo.png" width="800" alt="Website Landing Page"/>
+<img width="1066" alt="demo" src="https://user-images.githubusercontent.com/48688238/227125739-bf0f6c27-d35b-498c-9296-20b2b34945a9.png">
 </div>
 
 # Description
 
 The website allows users to create, view and update campgrounds. Users can also leave reviews for particular campgrounds. It also includes a cluster map of all 
 campgrounds created using mapbox. The project was created using Node.js, MongoDB, Express.js, Bootstrap, Mongoose, Passport.js & EJS.
-<img src="clustermap.png" width="800" alt="Website Landing Page"/>
+<img width="1267" alt="clustermap" src="https://user-images.githubusercontent.com/48688238/227125729-ec850f74-6a11-445b-84ee-310ed9c037d6.png">
 
 ## Getting Started
 
@@ -17,9 +17,7 @@ To run a local copy of the application
 
 ### Installation
 
-1. Clone the repository<img width="1267" alt="clustermap" src="https://user-images.githubusercontent.com/48688238/227125729-ec850f74-6a11-445b-84ee-310ed9c037d6.png">
-<img width="1066" alt="demo" src="https://user-images.githubusercontent.com/48688238/227125739-bf0f6c27-d35b-498c-9296-20b2b34945a9.png">
-
+1. Clone the repository
     ```sh
     git clone https://github.com/advsinha17/Yelp-Camp.git
     ```
