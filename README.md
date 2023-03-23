@@ -34,6 +34,6 @@ CLOUDINARY_CLOUD_NAME='<name>'
 CLOUDINARY_KEY='<key>'
 CLOUDINARY_SECRET='<secret>'
 MAPBOX_TOKEN='<token>'
-DB_URL='<url>'<img width="1066" alt="demo" src="https://user-images.githubusercontent.com/48688238/227125337-4c03a430-8ad7-4213-86e0-128c6f2a6b31.png">
+DB_URL='<url>'
 
 ```
